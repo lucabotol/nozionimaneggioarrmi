@@ -1,0 +1,91 @@
+#+title: NOZIONI TEORICHE DEL MANEGGIO ARMI
+* Prescrizione
+I reati riguardanti la materia "armi" ha una precrizione di 99 anni.
+* Licenza porto d'armi
++ disponibilità immediata dell'arma;
++ la licenza di porto d'armi è un interesse legittimo, e non un diritto del cittadino;
++ ovviamente non si deve abusare del diritto acquisito (pena denuncia e sequestro);
+** permessi del porto d'armi
+**ogni** licenza di porto d'armi permette:
+     1.  l'acquisto di armi lunghe, corte e bianche;
+	2. l'acquisto delle relative munizioni per le proprie armi;
+	   3. il trasporto all' interno del territorio nazionale (entro 72 ore dal ritiro).
+	      4. il trasporto all'interno della comunità europea (vedasi carta verde). 
+** tipologie di porto d'armi
+*** porto di pistola
++ validità di 1 anno;
+  + rilasciato per motivi lavorativi, o per questioni di sicurezza relativi al proprio mestiere.
+*** porto di fucile per tiro a volo
++ validità di 5 anni;
+  + nessuna formalità.
+*** porto di caccia
++ legge 152;
+ + utilizzo per attività venatoria
+   + pagamento di 153 euro al'anno.
+*** porto di fucile per motivi lavorativi
++ solo con canna liscia
+  
+* Classificazione delle armi
+** banco nazionale
+Il banco nazionale di prova, un ente italiano, ha il compito di catalogare ogni arma.
+Le classificazioni sono:
++ comuni -> codice C;
++ sportive -> codice S;
++ depotenziate -> codice D;
++ caccia;
++ antiche -> costruzione antecedente al 1890. Per queste armi, non occorre validarle al banco di prova.
+** armi corte
+ Possono essere a tamburo (es. revolver) o semiautomatiche
+** armi da guerra
+Proibite
+** armi comuni
+Possono essere:
++ da caccia;
++ sportive;
++ difesa personale.
+** armi da caccia
+La legge che definisce la classificazione di fucile da caccia è la 156-92.
+requisiti per essere considerati fucili da caccia:
++ lunghezza canna \ge  30 cm;
++ lunghezza totale \ge 60 cm;
++ bossolo \ge 40 (?);
++ palla \ge 5,6 (?).
+ 
+** caricatori
+Per le armi corte, il caricatore deve ospitare un massimo di 20 colpi, per le lunghe un massimo di 10.
+Nel caso si comprassero caricatori con una portata maggiore, occorre:
+1. essere iscritti ad un poligono di tiro;
+2. il caricatore dev' essere di un'arma sportiva;
+3. farne denuncia alle autorità competenti.
+** singola o doppia azione
+le armi possono avere la possibilità di essere a doppia o singola azione.
+* Detenzione
+** limiti di armi
++ max: 3 comuni, 12 sportive, 8 antiche.
++ illimitati: armi da caccia.
+
+** limiti di munizioni
++ max: 200 cartucce a palla, per armi comuni non da caccia;
++ max 1000 cartucce a pallini per caccia senza denuncia, ma possedendo una relativa arma denunciata;
++ da 1001 a 1500 cartucce a pallini per armi da caccia, con obbligo di denuncia;
++ fino a 1500 cartucce a palla, con obbligo di denuncia.
+
+* Trasporto
++ trasporto di armi non immediatamente disponibili;
++ le relative munizioni devono essere trasportate in un'altra custodia, lontane dalle armi.
+* Cambio di residenza
+da denunciare entro 72h.
+* Norme di sicurezza
+1. l'arma deve essere sempre considerata carica;
+2. mai puntare la volata verso ciò che non si vuole colpire;
+3. il dito deve essere sempre fuori dal grilletto, fino a quando non si ha intenzione di sparare;
+4. essere sempre sicuri prima di sparare.
+Il colpo accidentale è sempre conseguenza dell'errore umano.
+* Cartuccia
+formato da:
++ bossolo, o case: in materiale duttile, è inerte;
++ innesco: nitrati solfati;
++ palla;
++ polvere: in materiale inerte.
+Esistono le cartucce a percussione anulare, ovvero l'innesco non è al centro, ma sul bordo.
+Per es. il [[https://it.wikipedia.org/wiki/.22_Long_Rifle][.22 Long Rifle]]
